@@ -1,0 +1,18 @@
+{
+  "name": "compare-request-modules",
+  "version": "1.0.0",
+  "description": "Compare Node.js request modules",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonufrienko/compare-request-modules.git"
+  },
+  "author": "Sergey Onufrienko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
